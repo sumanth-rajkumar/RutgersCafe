@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">RUCafe</string>
+    <string name="subtotal">subtotal</string>
+    <string name="milk">Milk</string>
+    <string name="cream">Cream</string>
+    <string name="caramel">Caramel</string>
+    <string name="syrup">Syrup</string>
+    <string name="whipped_cream">Whipped Cream</string>
+    <string name="place_order">Place Order</string>
+
+    <string name="sales_tax">sales tax</string>
+    <string name="total">total</string>
+    <string name="your_order">Your Order</string>
+    <string name="todo">TODO</string>
+    <string name="add_to_order">Add To Order</string>
+    <string name="subtotal2">Subtotal</string>
+    <string name="subtotal3">      Subtotal:</string>
+    <string name="coffee">Coffee</string>
+    <string name="sales_tax2">Sales Tax:</string>
+    <string name="total2">Total:</string>
+    <string name="store_orders">Store Orders</string>
+    <string-array name="itemNames">
+        <item>Jelly</item>
+        <item>Glazed</item>
+        <item>Chocolate Frosted</item>
+        <item>Strawberry Frosted</item>
+        <item>Sugar</item>
+        <item>Lemon Filled</item>
+        <item>Cinnamon Sugar</item>
+        <item>Old Fashioned</item>
+        <item>Blueberry</item>
+        <item>Glazed Holes</item>
+        <item>Jelly Holes</item>
+        <item>Cinnamon Sugar Holes</item>
+    </string-array>
+    <string-array name="quantity">quantity
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+</resources>
